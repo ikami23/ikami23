@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikami23
+- 👋 Hi, I’m Ikram
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently learning in secondary school,grade11
 - 💞️ I’m looking to collaborate on developing web
